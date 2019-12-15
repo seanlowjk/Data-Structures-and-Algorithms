@@ -23,8 +23,16 @@ Data Structures and Algorithms based on NUS Module CS2040 and CS2040S. Written i
 | [SelectionSort](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/sorting/SelectionSort.java)|
 
 ## Heaps and Trees 
-| File name |
+| File Name |
 | :-: |
 | [AVL](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/heaps/AVL.java) |
 | [BST](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/heaps/BST.java) |
 | [BinaryHeap](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/heaps/BinaryHeap.java) |
+
+## Graphs 
+| File Name |
+| :-: |
+| [Edge](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/graph/Edge.java) |
+| [FloydGraph](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/graph/FloydGraph.java) |
+| [FloydGraphLong](https://github.com/seanlowjk/Data-Structures-and-Algorithms/tree/master/graph/FloydGraphLong.java) |
+| [Graph](https://github.com/seanlowjk/Data-Structures-and-Algorithms/tree/master/graph/Graph.java) |
