@@ -21,3 +21,10 @@ Data Structures and Algorithms based on NUS Module CS2040 and CS2040S. Written i
 | [QuickSort](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/sorting/QuickSort.java)|
 | [RadixSort](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/sorting/RadixSort.java)|
 | [SelectionSort](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/sorting/SelectionSort.java)|
+
+## Heaps and Trees 
+| File name |
+| :-: |
+| [AVL](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/heaps/AVL.java) |
+| [BST](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/heaps/BST.java) |
+| [BinaryHeap](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/heaps/BinaryHeap.java) |
