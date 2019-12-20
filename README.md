@@ -7,10 +7,10 @@ Data Structures and Algorithms based on NUS Module CS2040 and CS2040S. Written i
 | [CircularLinkedList](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/linkedlist/CircularLinkedList.java)|
 | [LinkedList](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/linkedlist/LinkedList.java)|
 | [ListNode](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/linkedlist/ListNode.java)|
-| [Queue](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/Queue.java)|
-| [QueueADT](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/QueueADT.java)|
-| [Stack](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/Stack.java)|
-| [StackADT](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/StackADT.java)|
+| [Queue](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/linkedlist/Queue.java)|
+| [QueueADT](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/linkedlist/QueueADT.java)|
+| [Stack](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/linkedlist/Stack.java)|
+| [StackADT](https://github.com/seanlowjk/Data-Structures-and-Algorithms/blob/master/linkedlist/StackADT.java)|
 
 ## Sorting
 | File Name | 
